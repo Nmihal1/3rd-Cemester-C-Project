@@ -1,0 +1,194 @@
+﻿  Framework.cpp
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(5,1): error C2011: 'Matrix': 'class' type redefinition
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(4): message : see declaration of 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.h(8,1): error C2011: 'Framework': 'class' type redefinition
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.h(7): message : see declaration of 'Framework'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.h(12,1): error C2504: 'Framework': base class undefined
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.h(19,10): error C2079: 'Rasteriser::_viewport' uses undefined class 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.h(20,10): error C2079: 'Rasteriser::_view' uses undefined class 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.h(21,10): error C2079: 'Rasteriser::_camera' uses undefined class 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.h(22,10): error C2079: 'Rasteriser::_projection' uses undefined class 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(29,24): error C2027: use of undefined type 'Framework'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.h(7): message : see declaration of 'Framework'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(35,12): error C2027: use of undefined type 'Framework'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.h(7): message : see declaration of 'Framework'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(36,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(37,19): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(38,1): warning C4508: '{ctor}': function should return a value; 'void' return type assumed
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(40,13): error C2027: use of undefined type 'Framework'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.h(7): message : see declaration of 'Framework'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(41,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(42,1): warning C4508: '{dtor}': function should return a value; 'void' return type assumed
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(224,16): error C2027: use of undefined type 'Framework'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.h(7): message : see declaration of 'Framework'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(226,2): error C2065: '_hInstance': undeclared identifier
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(227,7): error C3861: 'InitialiseMainWindow': identifier not found
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(231,9): error C3861: 'MainLoop': identifier not found
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(287,16): error C2027: use of undefined type 'Framework'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.h(7): message : see declaration of 'Framework'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(291,40): error C2065: '_hInstance': undeclared identifier
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(307,17): error C2027: use of undefined type 'Framework'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.h(7): message : see declaration of 'Framework'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(314,14): error C2065: '_hInstance': undeclared identifier
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(315,14): error C2065: '_hInstance': undeclared identifier
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(324,19): error C2065: '_hInstance': undeclared identifier
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(325,24): error C2065: '_hInstance': undeclared identifier
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(336,2): error C2065: '_hWnd': undeclared identifier
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(336,1): error C2065: '_hInstance': undeclared identifier
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(341,7): error C2065: '_hWnd': undeclared identifier
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(348,18): error C2065: '_hWnd': undeclared identifier
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(348,2): error C3861: 'InitializeScene': identifier not found
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(352,13): error C2065: '_hWnd': undeclared identifier
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(353,15): error C2065: '_hWnd': undeclared identifier
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(373,24): error C2027: use of undefined type 'Framework'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.h(7): message : see declaration of 'Framework'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(382,20): error C2027: use of undefined type 'Framework'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.h(7): message : see declaration of 'Framework'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(391,15): warning C4244: '=': conversion from 'UINT_PTR' to 'UINT', possible loss of data
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(402,3): error C3861: 'RenderScene': identifier not found
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(416,3): error C3861: 'Update': identifier not found
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(449,4): error C3861: 'Values': identifier not found
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(454,4): error C3861: 'Values': identifier not found
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(459,4): error C3861: 'Values': identifier not found
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(469,4): error C3861: 'Values': identifier not found
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(474,4): error C3861: 'Values': identifier not found
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(479,4): error C3861: 'Values': identifier not found
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(484,4): error C3861: 'Values': identifier not found
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(489,4): error C3861: 'Values': identifier not found
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(494,4): error C3861: 'Values': identifier not found
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(499,4): error C3861: 'Values': identifier not found
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(504,4): error C3861: 'Values': identifier not found
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(510,4): error C3861: 'Values': identifier not found
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(515,4): error C3861: 'Values': identifier not found
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(521,4): error C3861: 'Values': identifier not found
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(526,4): error C3861: 'Values': identifier not found
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(537,4): error C3861: 'Values': identifier not found
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(542,4): error C3861: 'Values': identifier not found
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(547,4): error C3861: 'Values': identifier not found
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(570,17): error C2027: use of undefined type 'Framework'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.h(7): message : see declaration of 'Framework'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(575,17): error C2027: use of undefined type 'Framework'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.h(7): message : see declaration of 'Framework'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(579,17): error C2027: use of undefined type 'Framework'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.h(7): message : see declaration of 'Framework'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.cpp(582,17): error C2027: use of undefined type 'Framework'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Framework.h(7): message : see declaration of 'Framework'
+  Rasteriser.cpp
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(5,1): error C2011: 'Matrix': 'class' type redefinition
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(4): message : see declaration of 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.h(19,10): error C2079: 'Rasteriser::_viewport' uses undefined class 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.h(20,10): error C2079: 'Rasteriser::_view' uses undefined class 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.h(21,10): error C2079: 'Rasteriser::_camera' uses undefined class 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.h(22,10): error C2079: 'Rasteriser::_projection' uses undefined class 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(16,18): error C2027: use of undefined type 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(4): message : see declaration of 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(17,1): error C2027: use of undefined type 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(4): message : see declaration of 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(24,18): error C2027: use of undefined type 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(4): message : see declaration of 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(25,1): error C2027: use of undefined type 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(4): message : see declaration of 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(29,18): error C2027: use of undefined type 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(4): message : see declaration of 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(30,1): error C2027: use of undefined type 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(4): message : see declaration of 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(34,18): error C2027: use of undefined type 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(4): message : see declaration of 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(35,1): error C2027: use of undefined type 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(4): message : see declaration of 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(266,31): error C2664: 'void Model::ApplyTransform(const Matrix &)': cannot convert argument 1 from 'int' to 'const Matrix &'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(266,31): message : Reason: cannot convert from 'int' to 'const Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(266,31): message : use of undefined type 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(4,7): message : see declaration of 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Model.h(69,7): message : see declaration of 'Model::ApplyTransform'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(275,22): error C2677: binary '*': no global operator found which takes type 'Vertex' (or there is no acceptable conversion)
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(280,35): error C2664: 'void Model::ApplyTransform(const Matrix &)': cannot convert argument 1 from 'int' to 'const Matrix &'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(280,35): message : Reason: cannot convert from 'int' to 'const Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(280,35): message : use of undefined type 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(4,7): message : see declaration of 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Model.h(69,7): message : see declaration of 'Model::ApplyTransform'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(291,33): error C2664: 'void Model::ApplyTransform(const Matrix &)': cannot convert argument 1 from 'int' to 'const Matrix &'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(291,33): message : Reason: cannot convert from 'int' to 'const Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(291,33): message : use of undefined type 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(4,7): message : see declaration of 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Model.h(69,7): message : see declaration of 'Model::ApplyTransform'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(326,9): error C2079: 'model_transform' uses undefined class 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(326,26): error C2079: 'transform' uses undefined class 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(332,35): error C2664: 'void Rasteriser::TransformModel(int,Matrix)': cannot convert argument 2 from 'int' to 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(332,35): message : use of undefined type 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(4,7): message : see declaration of 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(16,18): message : see declaration of 'Rasteriser::TransformModel'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(342,35): error C2664: 'void Rasteriser::TransformModel(int,Matrix)': cannot convert argument 2 from 'int' to 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(342,35): message : use of undefined type 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(4,7): message : see declaration of 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(16,18): message : see declaration of 'Rasteriser::TransformModel'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(353,9): error C2079: 'camera' uses undefined class 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(355,27): error C2664: 'void Rasteriser::SetCameraTransform(Matrix)': cannot convert argument 1 from 'int' to 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(355,27): message : use of undefined type 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(4,7): message : see declaration of 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(29,18): message : see declaration of 'Rasteriser::SetCameraTransform'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(359,9): error C2079: 'projection' uses undefined class 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(364,9): error C2079: 'volume' uses undefined class 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(368,9): error C2079: 'view' uses undefined class 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(370,29): error C2664: 'void Rasteriser::SetProjectionTransform(Matrix)': cannot convert argument 1 from 'int' to 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(370,29): message : use of undefined type 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(4,7): message : see declaration of 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(34,18): message : see declaration of 'Rasteriser::SetProjectionTransform'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(483,9): error C2079: 'camera' uses undefined class 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(483,17): error C2079: 'projection' uses undefined class 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(483,29): error C2079: 'volume' uses undefined class 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(483,37): error C2079: 'view' uses undefined class 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(498,30): error C2664: 'void Rasteriser::SetProjectionTransform(Matrix)': cannot convert argument 1 from 'int' to 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(498,30): message : use of undefined type 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(4,7): message : see declaration of 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(34,18): message : see declaration of 'Rasteriser::SetProjectionTransform'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(516,28): error C2664: 'void Rasteriser::SetCameraTransform(Matrix)': cannot convert argument 1 from 'int' to 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(516,28): message : use of undefined type 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(4,7): message : see declaration of 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(29,18): message : see declaration of 'Rasteriser::SetCameraTransform'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(523,28): error C2664: 'void Rasteriser::SetCameraTransform(Matrix)': cannot convert argument 1 from 'int' to 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(523,28): message : use of undefined type 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(4,7): message : see declaration of 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(29,18): message : see declaration of 'Rasteriser::SetCameraTransform'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(525,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(527,28): error C2664: 'void Rasteriser::SetCameraTransform(Matrix)': cannot convert argument 1 from 'int' to 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(527,28): message : use of undefined type 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(4,7): message : see declaration of 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(29,18): message : see declaration of 'Rasteriser::SetCameraTransform'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(529,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(531,28): error C2664: 'void Rasteriser::SetCameraTransform(Matrix)': cannot convert argument 1 from 'int' to 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(531,28): message : use of undefined type 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(4,7): message : see declaration of 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(29,18): message : see declaration of 'Rasteriser::SetCameraTransform'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(533,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(535,28): error C2664: 'void Rasteriser::SetCameraTransform(Matrix)': cannot convert argument 1 from 'int' to 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(535,28): message : use of undefined type 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(4,7): message : see declaration of 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(29,18): message : see declaration of 'Rasteriser::SetCameraTransform'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(537,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(539,28): error C2664: 'void Rasteriser::SetCameraTransform(Matrix)': cannot convert argument 1 from 'int' to 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(539,28): message : use of undefined type 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(4,7): message : see declaration of 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(29,18): message : see declaration of 'Rasteriser::SetCameraTransform'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(541,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(543,28): error C2664: 'void Rasteriser::SetCameraTransform(Matrix)': cannot convert argument 1 from 'int' to 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(543,28): message : use of undefined type 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(4,7): message : see declaration of 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(29,18): message : see declaration of 'Rasteriser::SetCameraTransform'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(545,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(547,28): error C2664: 'void Rasteriser::SetCameraTransform(Matrix)': cannot convert argument 1 from 'int' to 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(547,28): message : use of undefined type 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(4,7): message : see declaration of 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(29,18): message : see declaration of 'Rasteriser::SetCameraTransform'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(551,28): error C2664: 'void Rasteriser::SetCameraTransform(Matrix)': cannot convert argument 1 from 'int' to 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(551,28): message : use of undefined type 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(4,7): message : see declaration of 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(29,18): message : see declaration of 'Rasteriser::SetCameraTransform'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(555,28): error C2664: 'void Rasteriser::SetCameraTransform(Matrix)': cannot convert argument 1 from 'int' to 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(555,28): message : use of undefined type 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(4,7): message : see declaration of 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(29,18): message : see declaration of 'Rasteriser::SetCameraTransform'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(559,28): error C2664: 'void Rasteriser::SetCameraTransform(Matrix)': cannot convert argument 1 from 'int' to 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(559,28): message : use of undefined type 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Matrix_4D.h(4,7): message : see declaration of 'Matrix'
+C:\Users\test2\Desktop\Graphics Ι\Graphics_Framework_0\Rasteriser\Rasteriser.cpp(29,18): message : see declaration of 'Rasteriser::SetCameraTransform'
